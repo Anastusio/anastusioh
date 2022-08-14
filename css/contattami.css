@@ -97,6 +97,9 @@ span{
     font-size: 1.1rem;
     margin-bottom: 3.8rem;
 }
+.contattami a {
+    color: #f9004d;
+}
 .contattami-form form{
     position: relative;
 }
