@@ -23,7 +23,8 @@
     <!----Parte iniziale---->
     <div class="prima">
         <nav>
-            <h2 class="logo">Sito di<span> Anas</span></h2>
+            <a href="contattami.html" style="text-decoration: none;" target="_blank" class="logo">Sito di<span>
+                    Anas</span></a>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="index.html#service">progetti</a></li>
@@ -44,7 +45,8 @@
                 <input type=" name" name="nome" placeholder=" Il Tuo Nome" required>
                     <input type="email" name="email" id="" placeholder="E-mail" required>
                     <input type="text" name="oggetto" placeholder="Scrivi l'argomento del messaggio" required>
-                    <textarea name="messaggio" id="" cols="30" rows="10" placeholder="Il Tuo Messaggio" required>
+                    <textarea name="messaggio" id="" cols="30" rows="10" placeholder="Il Tuo Messaggio"
+                        onInput="this.parentNode.dataset.replicatedValue = this.value" required>
 
                 </textarea>
                     <input type="submit" name="" value="Invia" class="btn">

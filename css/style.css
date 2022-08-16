@@ -247,7 +247,7 @@ h5{
 .card .button:hover{
 	background-color: transparent;
 	border: 2px solid #f9004d;
-	cursor: pointer;
+	cursor:not-allowed ;
 }
 /* sezione contattami */
 .contact-me{
@@ -323,6 +323,9 @@ footer p:nth-child(2){
 .social a:hover{
 	transform: scale(1.3);
 	transition: .3s;
+}
+.copy{
+	color: #fff;
 }
 .end{
 	position: absolute;

@@ -108,6 +108,7 @@ form textarea{
     width: 100%;
     padding: 17px;
     border: none;
+    content: 0;
     outline: none;
     background:  #191919;
     color: #fff;
@@ -162,6 +163,7 @@ form textarea{
         -moz-transition: .2s;
         -ms-transition: .2s;
         -o-transition: .2s;
+    }
 }
 .contattami-form h1{
     font-size: 60px
@@ -177,6 +179,7 @@ form textarea{
         -moz-transition: .3s;
         -ms-transition: .3s;
         -o-transition: .3s;
+    }
 }
 @media (max-width: 1000px){
     .contattami{
