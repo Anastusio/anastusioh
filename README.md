@@ -27,6 +27,9 @@
 <h2>Che cos'é questo?</h2>
 <p>Questo è il mio sito Web di portfolio personale ospitato sulle pagine di GitHub. Nasce come un progetto per imparare a programmare con HTML e CSS ma poi visto che é venuto bene si é trasformato nel mio sito personale.</p>
 
+<h2>Posso copiarlo?</h2>
+<p>Si il sito é completamente open source peró sarebbe meglio che mi creditassi</p>
+
 <h2>Se trovo un bug cosa faccio</h2>
 <p>Ci sono 2 opzioni o apri un issue <a href="https://github.com/Anastusio/Anastusioh/issues">quá</a>, cercando di descrivere al meglio il bug, oppure <a href="https://anastusioh.pages.dev/contattami">quá</a> fai la stessa cosa e cercheró di sistemare il piú velocemente possibile.</p>
 
