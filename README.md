@@ -31,7 +31,7 @@
 <p>Si il sito é completamente open source peró sarebbe meglio che mi creditassi</p>
 
 <h2>Se trovo un bug cosa faccio</h2>
-<p>Ci sono 2 opzioni o apri un issue <a href="https://github.com/Anastusio/Anastusioh/issues">quá</a>, cercando di descrivere al meglio il bug, oppure <a href="https://anastusioh.pages.dev/contattami">quá</a> fai la stessa cosa e cercheró di sistemare il piú velocemente possibile.</p>
+<p>Ci sono 2 opzioni o apri un issue <a href="https://github.com/Anastusio/Anastusioh/issues">quá</a>, cercando di descrivere al meglio il bug, oppure <a href="https://anastusioh.pages.dev/contattami">qui</a> fai la stessa cosa e cercheró di sistemare il piú velocemente possibile.</p>
 
 <h2>Che lingue hai usato per farlo?</h2>
 <p>Ho usato HTML (Per fare la base del sito), CSS (Stili e Caratteri)</p>
